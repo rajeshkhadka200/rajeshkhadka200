@@ -3,9 +3,7 @@
 
 ```
 
-
 I'm Rajesh, a self taught full stack developer.
-
 
 ```
 
