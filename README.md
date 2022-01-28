@@ -19,7 +19,7 @@ I'm Rajesh, a self taught full stack developer.
 
 ###  🛠 Languages and Tools:
 
-<span><img src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png" width="40px"></span>&nbsp;
+<span><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40px"></span>&nbsp;
