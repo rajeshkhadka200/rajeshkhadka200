@@ -2,19 +2,19 @@
 
 ```
 
-I'm Biswajit, a self taught frontend developer.
+I'm Rajesh, a self taught full stack developer.
 
 ```
 
 
 ### 👨‍💻 About me
 
-- ⚛️ Specialize in => React, React Native and Node Js.
-- 💡 I’m currently learning => GraphQL, Nextjs, Typescript.
-- ✅ I’m looking for Job on => Web development / Frontend Development.
+- ⚛️ Specialize in => React, Express and Node Js.
+- 💡 I’m currently learning => Everything.
+- ✅ I’m looking for Project on => Web development / Fullstack Development.
 - 📟 I’m looking for help with => MERN Stack.
-- 💬 Ask me about => Frontend Web development.
-- 🎯 2022 Goals: Creck a Dev Job.
+- 💬 Ask me about =>  Web development.
+- 🎯 2022 Goals: Explore a new things.
 
 
 ###  🛠 Languages and Tools:
