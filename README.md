@@ -14,7 +14,7 @@ I'm Rajesh, a self taught full stack developer.
 - 💡 I’m currently learning => Everything 😁 .
 - ✅ I’m looking for Project on => Web development / Fullstack Development.
 - 💬 Ask me about =>  Web development.
-- 🎯 2022 Goals: Complete a alot of  project.
+- 🎯 2022 Goals: Complete a a lot of  project.
 
 
 ###  🛠 Languages and Tools:
