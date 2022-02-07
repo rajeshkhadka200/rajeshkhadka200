@@ -10,11 +10,11 @@ I'm Rajesh, a self taught full stack developer.
 
 ### 👨‍💻 About me
 
-- ⚛️ Comfortable in : React, Express, Node Js and PHP.
-- 💡 I’m currently learning : Everything 😁 .
-- ✅ I’m looking for Project on : Web development / Fullstack Development.
-- 💬 Ask me about :  Web development.
-- 🎯 2022 Goals : Complete a a lot of  project.
+- ⚛️ Comfortable in => React, Express, Node Js and PHP.
+- 💡 I’m currently learning => Everything 😁 .
+- ✅ I’m looking for Project on => Web development / Fullstack Development.
+- 💬 Ask me about =>  Web development.
+- 🎯 2022 Goals => Complete a a lot of  project.
 
 
 
