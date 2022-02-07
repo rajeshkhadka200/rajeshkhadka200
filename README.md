@@ -15,6 +15,7 @@ I'm Rajesh, a self taught full stack developer.
 - ✅ I’m looking for Project on => Web development / Fullstack Development.
 - 💬 Ask me about =>  Web development.
 - 🎯 2022 Goals: Complete a a lot of  project.
+- 💁‍♂ How to react me : rajeshkhadkaofficial45@gmail.com
 
 
 ###  🛠 Languages and Tools:
