@@ -28,11 +28,9 @@ I'm Rajesh, a self taught full stack developer.
 
 ### 👇 Find me on 
 
-```
-
-- 🔗 Connect me on : rajeshkhadkaofficial45@gmail.com
+- 🔗 Linked in : <a href = "https://www.linkedin.com/in/rajeshkhadka200"> rajeshkhadka200 </a>
 - 🔗 facebook : <a href = "https://www.facebook.com/rajeshkhadka200"> rajeshkhadka200 </a>
+- 🔗 Gmail : rajeshkhadkaofficial45@gmail.com
 
 
-```
  
