@@ -13,8 +13,8 @@ I'm Rajesh, a self taught full stack developer.
 - ⚛️ Comfortable in => React, Express, Node Js,Mongo DB and React Native.
 - 💡 I’m currently learning => Everything 😁 .
 - 👯 I’m looking to collaborate with <a href="https://www.github.com/Heckerbl"> @SarojRegmi </a>
-- ✅ I’m looking for Project on => Web development / Fullstack Development.
-- 💬 Ask me about =>  Web development.
+- ✅ I’m looking for Project on => Web development / App Development / Fullstack Development.
+- 💬 Ask me about => web and app.
 - 🎯 2022 Goals => Complete a lot of  project.
 
 
