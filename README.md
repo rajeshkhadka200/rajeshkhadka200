@@ -39,7 +39,7 @@ I'm Rajesh, a self taught full stack developer.
 - 🔗 facebook : <a  target="_blank" href = "https://www.facebook.com/rajeshkhadka200"> rajeshkhadka200 </a>
 - 🔗 Instagram : <a target="_blank" href = "https://www.instagram.com/rajeshkhadka200"> rajeshkhadka200 </a>
 - 🔗 Blog : <a target="_blank" href = "https://blog.rajeshkhadka.info.np/"> Rajesh khadka's Blog </a>
-- 🔗 Gmail : rajeshkhadkaofficial45@gmail.com
+- 🔗 Gmail : info@rajeshkhadka.info.np
  
 
 <p align="left">
