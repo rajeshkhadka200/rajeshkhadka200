@@ -1,0 +1,10 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "scripts": {
+    "get-latest-post": "node blog.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
