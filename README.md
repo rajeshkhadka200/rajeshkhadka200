@@ -16,6 +16,11 @@ I'm Rajesh, a self taught full stack developer.
 ### 📗 My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Feb: How I Overcame a CORS Error when posting to Dev.to API.](https://blog.rajeshkhadka.info.np/debugging-feb-how-i-overcame-a-cors-error-when-posting-to-devto-api)
+- [Code &amp; Progress: A Development Blog](https://blog.rajeshkhadka.info.np/code-progress-a-development-blog)
+- [2022 for me as a developer ! - Dev Retro 2022 🔥](https://blog.rajeshkhadka.info.np/2022-for-me-as-a-developer-dev-retro-2022)
+- [Vs code for developers !](https://blog.rajeshkhadka.info.np/vs-code-for-developers)
+- [Meet my latest project - Realtime code collaboration tool](https://blog.rajeshkhadka.info.np/meet-my-latest-project-realtime-code-collaboration-tool)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📈 My GitHub stats
