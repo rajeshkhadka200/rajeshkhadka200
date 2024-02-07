@@ -26,7 +26,14 @@ I'm Rajesh, a self taught full stack developer.
 <!-- BLOG-POST-LIST:END -->
  
 --------------------------------------------
+### 📝 Hashnode
+![Hashnode](https://firebasestorage.googleapis.com/v0/b/mero-room-f06e5.appspot.com/o/images%2Frajeshkhadka.png?alt=media&token=92347ed4-15aa-41b3-917a-c8d769ff7c48)
 
+--------------------------------------------
+## 👩‍💻 GitHub
+![GitHUb](https://firebasestorage.googleapis.com/v0/b/mero-room-f06e5.appspot.com/o/images%2Frajeshkhadka200-lines-of-code-card.png?alt=media&token=35525200-fb4a-4bc7-9b68-3df14de6ecce)
+
+-------------------------------------------
 ### 👇 Find me on
 
 - 🔗 Linked in : <a  target="_blank" href = "https://www.linkedin.com/in/rajeshkhadka200"> rajeshkhadka200 </a>
