@@ -24,6 +24,14 @@ I'm Rajesh, a self taught full stack developer.
 - [Code &amp; Progress: A Development Blog](https://rajeshkhadka.hashnode.dev/code-progress-a-development-blog)
 - [2022 for me as a developer ! - Dev Retro 2022 🔥](https://rajeshkhadka.hashnode.dev/2022-for-me-as-a-developer-dev-retro-2022)
 <!-- BLOG-POST-LIST:END -->
+--------------------------------------------------
+
+### 📺 My Latest YouTube videos.
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+
  
 --------------------------------------------
 ### 📝 Hashnode
