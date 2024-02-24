@@ -26,13 +26,13 @@ I'm Rajesh, a self taught full stack developer.
 <!-- BLOG-POST-LIST:END -->
 --------------------------------------------------
 
-### 📗 My Latest YouTube Videos
+### 🔴 My Latest YouTube Videos
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Introducing gitHash - Convert your GitHub commits to hashnode blogs. -  @hashnodeHashnode Hackathon.](https://www.youtube.com/watch?v=a_rUcsIkN7A)
-- [Introducing Apexa - Won $1000 🤑 with this hackathon Project. 🚀](https://www.youtube.com/watch?v=4dyoFMiMUnk)
+- [Introducing Apexa - Won $1000 with this hackathon Project. 🚀](https://www.youtube.com/watch?v=4dyoFMiMUnk)
 - [new app launching soon. -Mero Room #realestate #application](https://www.youtube.com/watch?v=MKVPnRJ0KVk)
 - [Introducing easy blog - Write once share to many ❤ @MongoDB @ThePracticalDevTeam  #hackathon](https://www.youtube.com/watch?v=5sh75GbRSRU)
-- [Introducing Mero Room - Won $250 🤑 for this hackathon Project.  🏡 @notjustdev](https://www.youtube.com/watch?v=0GYYh3aouFI)
+- [Introducing Mero Room - Won $250 for this hackathon Project.  🏡 @notjustdev](https://www.youtube.com/watch?v=0GYYh3aouFI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
  
 
