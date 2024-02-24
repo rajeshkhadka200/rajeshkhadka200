@@ -25,6 +25,11 @@ I'm Rajesh, a self taught full stack developer.
 - [2022 for me as a developer ! - Dev Retro 2022 🔥](https://blog.rajeshkhadka.info.np/2022-for-me-as-a-developer-dev-retro-2022)
 <!-- BLOG-POST-LIST:END -->
 --------------------------------------------------
+
+### 📗 My Latest YouTube Videos
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+
+<!-- YOUTUBE-VIDEOS-LIST:END -->
  
 
 ### 👇 Find me on
