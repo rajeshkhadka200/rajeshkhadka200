@@ -18,11 +18,11 @@ I'm Rajesh, a self taught full stack developer.
 ### 📗 My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing CEO - Just Draw your problem, CEO will solve it.](https://rajeshkhadka.hashnode.dev/ceo)
-- [Introducing gitHash - Let&#39;s utilize the power of : &#39;git push&#39;](https://rajeshkhadka.hashnode.dev/introducing-githash-lets-utilize-the-power-of-git-push)
-- [Debugging Feb #2 : Cannot set headers after they are sent to the client](https://rajeshkhadka.hashnode.dev/debugging-feb-2-cannot-set-headers-after-they-are-sent-to-the-client)
-- [Debugging Feb #1: How I Overcame a CORS Error when posting to Dev.to API.](https://rajeshkhadka.hashnode.dev/debugging-feb-1-how-i-overcame-a-cors-error-when-posting-to-devto-api)
-- [Code &amp; Progress: A Development Blog](https://rajeshkhadka.hashnode.dev/code-progress-a-development-blog)
+- [Introducing CEO - Just Draw your problem, CEO will solve it.](https://blog.rajeshkhadka.info.np/ceo)
+- [Introducing gitHash - Let&#39;s utilize the power of : &#39;git push&#39;](https://blog.rajeshkhadka.info.np/introducing-githash-lets-utilize-the-power-of-git-push)
+- [Debugging Feb #2 : Cannot set headers after they are sent to the client](https://blog.rajeshkhadka.info.np/debugging-feb-2-cannot-set-headers-after-they-are-sent-to-the-client)
+- [Debugging Feb #1: How I Overcame a CORS Error when posting to Dev.to API.](https://blog.rajeshkhadka.info.np/debugging-feb-1-how-i-overcame-a-cors-error-when-posting-to-devto-api)
+- [Code &amp; Progress: A Development Blog](https://blog.rajeshkhadka.info.np/code-progress-a-development-blog)
 <!-- BLOG-POST-LIST:END -->
 --------------------------------------------------
 
