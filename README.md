@@ -18,11 +18,11 @@ I'm Rajesh, a self taught full stack developer.
 ### 📗 My Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Ran Regression Tests on Nepal&#39;s Biggest Fintech App Using Passmark + Playwright](https://blog.rajeshkhadka.info.np/how-i-ran-regression-tests-on-nepal-s-biggest-fintech-app-using-passmark-playwright)
 - [Entrance Exam: Changed my career path](https://blog.rajeshkhadka.info.np/entrance-exam-changed-my-career-path)
 - [Introducing CEO - Just Draw your problem, CEO will solve it.](https://blog.rajeshkhadka.info.np/ceo)
 - [Introducing gitHash - Let&#39;s utilize the power of : &#39;git push&#39;](https://blog.rajeshkhadka.info.np/introducing-githash-lets-utilize-the-power-of-git-push)
 - [Debugging Feb #2 : Cannot set headers after they are sent to the client](https://blog.rajeshkhadka.info.np/debugging-feb-2-cannot-set-headers-after-they-are-sent-to-the-client)
-- [Debugging Feb #1: How I Overcame a CORS Error when posting to Dev.to API.](https://blog.rajeshkhadka.info.np/debugging-feb-1-how-i-overcame-a-cors-error-when-posting-to-devto-api)
 <!-- BLOG-POST-LIST:END -->
 --------------------------------------------------
 
